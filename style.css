@@ -1,0 +1,44 @@
+.postmsg{
+	padding-bottom: 15px;
+}
+
+.signup{
+	margin-top: 20px;
+}
+
+.signup .btn{
+	font-weight: bold;
+	text-transform: uppercase;
+	border: 1px solid rgb(90, 90, 90);
+}
+
+.loginform{
+	display: none;
+	position: relative;
+}
+
+.message{
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	opacity: 0.75;
+	margin-left: 10px;
+	margin-right: 10px;
+	border: 1px solid rgb(127, 127, 127);
+}
+
+.messages{
+	background-image: url("http://cdn.wonderfulengineering.com/wp-content/uploads/2014/07/black-and-white-wallpaper-3-610x381.jpg");
+	padding-top: 10px;
+	border-top: 10px;
+	padding-bottom: 10px;
+}
+
+.jumbotron{
+	font-family: 'Consolas';
+}
+
+body{
+	background-color: #ddd;
+}
